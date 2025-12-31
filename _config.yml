@@ -21,11 +21,10 @@
 title: cryzze.net
 author: Christoph Menzer
 email: christoph@cryzze.net
+lastChanged: 2025-11-31
 description: >- # this means to ignore newlines until "baseurl:"
-  Diese Domain dient in erster Linie als technische Hilfestellung zur Verbesserung
-  der Nutzerfreundlichkeit verschiedener Dienste, die ich selbst betreibe 
-  und i. d. R. auch nur selbst benutze. Sollten ungewöhnliche Aktivitäten von dieser
-  Domain ausgehen, kontaktieren Sie mich bitte unter einer der angegebenen E-Mail-Adressen.
+  cryzze.net ist ein privates Projekt und vereinfacht die Konfiguration einiger Dienste,
+  die ich privat nutze und betreibe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cryzznet

@@ -31,7 +31,6 @@ github_username:  cryzznet
 header_pages:
   - news.md 
   - about.html 
-  - imprint.md
 
 # Build settings
 theme: minima
